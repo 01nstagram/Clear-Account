@@ -1,7 +1,3 @@
-Here’s a polished and visually appealing version of your README for the **Clear Account** tool in English:
-
----
-
 # Clear Account - Discord Account Cleaner 🚀
 
 **Clear Account** is a powerful tool designed to create **completely new and history-free Discord accounts**. Perfect for those who want a fresh start on Discord, free from bans, restrictions, or unwanted traces. Ideal for privacy, rejoining communities, or simply resetting your Discord experience.
@@ -80,7 +76,3 @@ Contributions are welcome! Feel free to fork the project, open issues, and submi
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like further adjustments! 😊
