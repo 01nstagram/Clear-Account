@@ -1,83 +1,86 @@
-Here's a simple README template for your Clear Account tool in JavaScript. It includes a section for adding a screenshot of the tool:
-
+Here’s a polished and visually appealing version of your README for the **Clear Account** tool in English:
 
 ---
 
-Clear Account - Discord Account Cleaner
+# Clear Account - Discord Account Cleaner 🚀
 
-Clear Account is a tool designed to create fresh and untainted Discord accounts. It helps users start over on Discord without any previous history, bans, or restrictions. Perfect for those who need a clean slate to join communities or for privacy reasons.
+**Clear Account** is a powerful tool designed to create **completely new and history-free Discord accounts**. Perfect for those who want a fresh start on Discord, free from bans, restrictions, or unwanted traces. Ideal for privacy, rejoining communities, or simply resetting your Discord experience.
 
-Features
+---
 
-Create a completely new Discord account with no previous history.
+## ✨ Features
 
-Free from any prior bans, flags, or restrictions.
+- ✅ Create a **brand-new Discord account** with no prior history.
+- 🚫 Free from previous bans, flags, or restrictions.
+- 🔒 Ensures **privacy and anonymity**.
+- 🔄 Reset your Discord experience effortlessly.
 
-Ensures complete privacy and anonymity on Discord.
+---
 
-Can be used to reset the Discord experience for users.
+## 📋 Requirements
 
+- **Node.js** (version 16 or higher recommended)
+- **Discord.js** (for interacting with the Discord API)
+- **NPM** (for package management)
 
-Requirements
+---
 
-Node.js (v16 or higher recommended)
-
-Discord.js (for interaction with Discord API)
-
-NPM (for package management)
-
-
-Installation
+## 🛠️ Installation
 
 1. Clone or download this repository:
 
-
-
-git clone https://github.com/01nstagram/Clear-Account.git
+   ```bash
+   git clone https://github.com/01nstagram/Clear-Account.git
+   ```
 
 2. Navigate to the project folder:
 
-
-
-cd Clear-Account
+   ```bash
+   cd Clear-Account
+   ```
 
 3. Install dependencies:
 
-
-
-npm install
+   ```bash
+   npm install
+   ```
 
 4. Configure the tool by modifying the configuration file (if applicable).
 
+---
 
+## 🚀 Usage
 
-Usage
-
-1. Open the terminal and navigate to your project folder.
-
+1. Open your terminal and navigate to the project folder.
 
 2. Run the tool using the following command:
 
-
-
-node index.js
+   ```bash
+   node index.js
+   ```
 
 3. Follow the on-screen prompts to create a new Discord account or clear your existing account's history.
 
+---
 
+## 📸 Screenshot
 
-Screenshot of the Tool
-
-Below is a screenshot of the Clear Account tool interface:
-
+Below is a screenshot of the **Clear Account** tool interface:
 
 ![Clear Account Tool Screenshot](ft/IMG_20250227_005826.png)
 
+---
 
-Contributing
+## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork the project, create issues, and submit pull requests.
+Contributions are welcome! Feel free to fork the project, open issues, and submit pull requests. Check out the [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
-License
+---
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Let me know if you'd like further adjustments! 😊
